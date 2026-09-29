@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tallerarquimista.com/sitemap.xml
